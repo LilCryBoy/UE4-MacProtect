@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-LCEProtect-0002.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\UnrealProject\Electro-Point-EDITOR\Intermediate\Build\Win64\ElectroPointEDITOREditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\UnrealProject\Electro-Point-EDITOR\Plugins\LCEProtect\Intermediate\Build\Win64\UnrealEditor\Development\LCEProtect\Module.LCEProtect.cpp.obj"
+"E:\UnrealProject\Electro-Point-EDITOR\Plugins\LCEProtect\Intermediate\Build\Win64\UnrealEditor\Development\LCEProtect\Module.LCEProtect.gen.cpp.obj"
+"E:\UnrealProject\Electro-Point-EDITOR\Plugins\LCEProtect\Intermediate\Build\Win64\UnrealEditor\Development\LCEProtect\Default.rc2.res"
+/OUT:"E:\UnrealProject\Electro-Point-EDITOR\Plugins\LCEProtect\Intermediate\Build\Win64\UnrealEditor\Development\LCEProtect\UnrealEditor-LCEProtect-0002.lib"
+/INCLUDE:IMPLEMENT_MODULE_LCEProtect
